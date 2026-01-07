@@ -3,3 +3,6 @@ created a basic html structure with <head>,<title>,<body>,<h1> and <p> tag(this 
 
 day2:
 created basic anchor tag for google used ctrl+shift+C for copying the path and checked it in google..it worked
+
+day3:
+created basic structure with list 1.ordered list,2.unordered list
