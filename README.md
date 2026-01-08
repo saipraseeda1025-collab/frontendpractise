@@ -6,3 +6,6 @@ created basic anchor tag for google used ctrl+shift+C for copying the path and c
 
 day3:
 created basic structure with list 1.ordered list,2.unordered list
+
+day4:
+just workedon how <hr>and <br> works
