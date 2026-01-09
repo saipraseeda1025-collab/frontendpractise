@@ -9,3 +9,6 @@ created basic structure with list 1.ordered list,2.unordered list
 
 day4:
 just workedon how <hr>and <br> works
+
+day5:
+done with adding an img suing its source and alignment option <center> fro the img alone,also gave alt attribute for the image as if my img is not found then i may use this word in the place of that img
