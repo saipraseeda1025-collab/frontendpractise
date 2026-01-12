@@ -12,3 +12,6 @@ just workedon how <hr>and <br> works
 
 day5:
 done with adding an img suing its source and alignment option <center> fro the img alone,also gave alt attribute for the image as if my img is not found then i may use this word in the place of that img
+
+day6:(after saturday and sunday)
+worked with basic working of navigation bar.
