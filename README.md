@@ -15,3 +15,5 @@ done with adding an img suing its source and alignment option <center> fro the i
 
 day6:(after saturday and sunday)
 worked with basic working of navigation bar.
+day7:
+Done with label tag and used input type and placeholder attributes,need to learn about validations for them
