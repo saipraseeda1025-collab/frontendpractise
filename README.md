@@ -17,3 +17,5 @@ day6:(after saturday and sunday)
 worked with basic working of navigation bar.
 day7:
 Done with label tag and used input type and placeholder attributes,need to learn about validations for them
+day 8:(Had a great break with theoritical studies)
+today i learnt about inline,external and internal css.
